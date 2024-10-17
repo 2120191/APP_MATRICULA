@@ -18,7 +18,7 @@ esta aplicacion que nos permiteba btener una mejor control
 ## pasos iniciales
 1. crear la carpeta del proyecto 
 ´´´bash
-   mkdir app_matricula_python´´´
+   smkdir app_matricula_python´´´
 
 2. acceder a la carpeta de proyecto 
 ´´´bash
